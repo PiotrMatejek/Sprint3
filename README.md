@@ -1,3 +1,3 @@
 # Sprint3
 
-Task with JavaScript
+Tasks with JavaScript
